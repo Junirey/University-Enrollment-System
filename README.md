@@ -120,19 +120,19 @@ Relationship:
 ---
 ## Extended Features
 
-7. **View Course Roster**  
+- **View Course Roster**  
    Allows administrators or professors to view a list of students enrolled in a specific course. Useful for taking attendance, tracking class size, or contacting enrollees.
 
-8. **View Student Timetable**  
+- **View Student Timetable**  
    Displays the list of courses a student is enrolled in, along with their units and schedules (if schedules are implemented). Helps students manage their workload and avoid conflicts.
 
-9. **Department Level Summary**  
+- **Department Level Summary**  
    Generates a summary of courses and professors under each department, including total courses offered and enrolled student count per course. Provides insights at the academic unit level.
 
-10. **Student Course Enrollment**  
+- **Student Course Enrollment**  
    Enables manual or self-service enrollment of students in available courses while enforcing unit and capacity rules. This is one of the system’s core features.
 
-11. **CSV Report Generator**  
+- **CSV Report Generator**  
    Allows exporting student lists, course rosters, or department summaries into CSV format for academic reporting, administrative auditing, or external use.
 
 ---
