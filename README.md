@@ -58,7 +58,7 @@ Relationship:
 - `day` (TEXT)
 - `start_time` (TEXT)
 - `end_time` (TEXT)
-- 
+
 Relationship:  
 - Each course belongs to one department (N:1)  
 - Each course is taught by one professor (N:1)  
