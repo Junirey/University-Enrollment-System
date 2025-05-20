@@ -135,4 +135,7 @@ Relationship:
 - **CSV Report Generator**  
    Allows exporting student lists, course rosters, or department summaries into CSV format for academic reporting, administrative auditing, or external use.
 
+- **Database Analysis and Visualisation**
+    Get the values from the database columns, import them into a dataframe to get the summary statistics and visualize the data.
+
 ---
